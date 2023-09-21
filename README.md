@@ -7,4 +7,4 @@
 
 ## Personal Note
 
-The code you find in this repository has been sourced from the Udemy course titled 'Jenkins Beginner to Pro.' These scripts and examples are provided to offer hands-on experience and experimentation with Jenkins pipelines. They serve as valuable tools for both learning and practice. This repository also serves as a personal archive, where I can reference and store the code I've worked with during the course, ensuring easy access to Jenkins pipeline examples and configurations whenever needed. Feel free to explore, experiment, and learn from these resources, and don't hesitate to reach out if you have any questions or suggestions for improvements.
+The code you find in this repository has been sourced from the Udemy course titled 'Jenkins Beginner to Pro.' These scripts and examples are provided to offer hands-on experience and experimentation with Jenkins pipelines. They serve as valuable tools for both learning and practice. This repository also serves as a personal archive, where I can reference and store the code I've worked with during the course, ensuring easy access to Jenkins pipeline examples and configurations whenever needed.
