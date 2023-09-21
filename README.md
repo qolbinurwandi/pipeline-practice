@@ -3,7 +3,7 @@
 "Jenkins Beginner to Pro" course on Udemy! This repository contains code examples and resources related to the course. In this course, you will learn how to set up and use Jenkins for continuous integration and continuous delivery (CI/CD) pipelines.
 
 ## Course Link
-- [Jenkins Beginner to Pro on Udemy](https://www.udemy.com/course/jenkins-beginner-to-pro/)
+- [Jenkins Beginner to Pro on Udemy]([https://www.udemy.com/course/jenkins-beginner-to-pro/](https://www.udemy.com/course/jenkins-masterclass/))
 
 ## Personal Note
 
